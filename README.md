@@ -1,15 +1,12 @@
-# DevHub 🚀
+# DevHub
 
 DevHub es una plataforma web pensada como un **hub de proyectos de software**, donde desarrolladores pueden:
 
-- 🔍 Buscar proyectos en los que participar
-- 📢 Publicar sus propios proyectos
-- 🤝 Encontrar otros desarrolladores interesados
-- 📱 Escalar fácilmente a aplicación de escritorio y móvil
+- Buscar proyectos en los que participar
+- Publicar sus propios proyectos
+- Encontrar otros desarrolladores interesados
 
-Este proyecto nace como una iniciativa de aprendizaje, pero con una **arquitectura profesional**, pensada para crecer y convertirse en un producto real.
-
----
+Este proyecto nace como una iniciativa de aprendizaje, pensada para crecer y convertirse en un producto real.
 
 ## ✨ Características actuales
 
@@ -20,8 +17,6 @@ Este proyecto nace como una iniciativa de aprendizaje, pero con una **arquitectu
 ✅ Frontend con React + Vite  
 ✅ Comunicación usando `fetch` nativo (sin Axios)  
 ✅ Todo usando herramientas **100 % gratuitas**
-
----
 
 ## 🛠️ Tecnologías usadas
 
@@ -37,12 +32,10 @@ Este proyecto nace como una iniciativa de aprendizaje, pero con una **arquitectu
 - JavaScript (ES6+)
 - Fetch API
 
----
+## Ejecucion
 
-## 📁 Estructura del proyecto
+- cd backend
+- node index.js
 
-cd backend
-node index.js
-
-cd frontend
-npm run dev
+- cd frontend
+- npm run dev
